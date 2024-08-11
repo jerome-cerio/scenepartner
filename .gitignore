@@ -1,0 +1,5 @@
+# Do not push the .env file with OPENAI API Key to the Git repository.
+.env
+
+# Compiled byte files
+__pycache__/
